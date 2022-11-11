@@ -112,8 +112,8 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 
 ## OUTPUT :
-    /**PLOTS of Output in hidden space**/
-    /Classification results
+ 
+ ![s1](https://user-images.githubusercontent.com/113674204/201338817-fa38c72a-b6ca-455b-8c92-d06d6d407d7f.png)
 
 ## RESULT:
 Thus,the implementation of XOR using RBF is executed successfully.
